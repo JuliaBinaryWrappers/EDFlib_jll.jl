@@ -1,0 +1,113 @@
+[[EDFlib]]
+arch = "aarch64"
+git-tree-sha1 = "a39a856af64e2ccaf2ca491027d907839a9ee2bd"
+libc = "musl"
+os = "linux"
+
+    [[EDFlib.download]]
+    sha256 = "2cc4103be570f6315f2380dc1ec6f7b10695d02a0b3940bb9051a3699f29f088"
+    url = "https://github.com/JuliaBinaryWrappers/EDFlib_jll.jl/releases/download/EDFlib-v1.16.0+0/EDFlib.v1.16.0.aarch64-linux-musl.tar.gz"
+[[EDFlib]]
+arch = "i686"
+git-tree-sha1 = "2fc759cae2c5931be4279ef796ad64dcbdffc7a6"
+os = "windows"
+
+    [[EDFlib.download]]
+    sha256 = "4adeadffcd2fc4d9db19d6f69f697fa88c38a93943300fcc946a032d67360350"
+    url = "https://github.com/JuliaBinaryWrappers/EDFlib_jll.jl/releases/download/EDFlib-v1.16.0+0/EDFlib.v1.16.0.i686-w64-mingw32.tar.gz"
+[[EDFlib]]
+arch = "x86_64"
+git-tree-sha1 = "11d6e3ade6de8b1ac6854ebdb687dfc31eb848b1"
+libc = "musl"
+os = "linux"
+
+    [[EDFlib.download]]
+    sha256 = "fc2a7e51ea7900660d4e76d816c92e546d7bbb4247c65f567a0e5da0632de3cb"
+    url = "https://github.com/JuliaBinaryWrappers/EDFlib_jll.jl/releases/download/EDFlib-v1.16.0+0/EDFlib.v1.16.0.x86_64-linux-musl.tar.gz"
+[[EDFlib]]
+arch = "i686"
+git-tree-sha1 = "54dc33655d1fd1024f21fb199bc7b6cc23811243"
+libc = "glibc"
+os = "linux"
+
+    [[EDFlib.download]]
+    sha256 = "e85ad2d256a2f7b2cc7709dc3711f103cb898d9fba22ed80d5631229803d582d"
+    url = "https://github.com/JuliaBinaryWrappers/EDFlib_jll.jl/releases/download/EDFlib-v1.16.0+0/EDFlib.v1.16.0.i686-linux-gnu.tar.gz"
+[[EDFlib]]
+arch = "armv7l"
+git-tree-sha1 = "f7d358083953deb637f7a94a67cc55aa0e4309e9"
+libc = "glibc"
+os = "linux"
+
+    [[EDFlib.download]]
+    sha256 = "aab81abb1e27a49d736ecc278640a4ec399909330746668eea3d6d1409f8568d"
+    url = "https://github.com/JuliaBinaryWrappers/EDFlib_jll.jl/releases/download/EDFlib-v1.16.0+0/EDFlib.v1.16.0.armv7l-linux-gnueabihf.tar.gz"
+[[EDFlib]]
+arch = "aarch64"
+git-tree-sha1 = "056e6f9371a85c4699fe8158bf660f51f4608365"
+libc = "glibc"
+os = "linux"
+
+    [[EDFlib.download]]
+    sha256 = "289985776cf82e3683f5950182dad2798ae8e5b4a4148e3110c5ca21bbd1cb45"
+    url = "https://github.com/JuliaBinaryWrappers/EDFlib_jll.jl/releases/download/EDFlib-v1.16.0+0/EDFlib.v1.16.0.aarch64-linux-gnu.tar.gz"
+[[EDFlib]]
+arch = "x86_64"
+git-tree-sha1 = "191f13e459004b837e77efd73ce2dc3ea297f905"
+libc = "glibc"
+os = "linux"
+
+    [[EDFlib.download]]
+    sha256 = "f51ba4eecffc7d0b360d45b49f116d425cde587284bb0594defed480fac346af"
+    url = "https://github.com/JuliaBinaryWrappers/EDFlib_jll.jl/releases/download/EDFlib-v1.16.0+0/EDFlib.v1.16.0.x86_64-linux-gnu.tar.gz"
+[[EDFlib]]
+arch = "powerpc64le"
+git-tree-sha1 = "6df54490f673e69859ce8404c9136882459af666"
+libc = "glibc"
+os = "linux"
+
+    [[EDFlib.download]]
+    sha256 = "fed537a6ba36b3ccc9d79adeac4aa97ea4785f4e67d2ab41be47985b0543157d"
+    url = "https://github.com/JuliaBinaryWrappers/EDFlib_jll.jl/releases/download/EDFlib-v1.16.0+0/EDFlib.v1.16.0.powerpc64le-linux-gnu.tar.gz"
+[[EDFlib]]
+arch = "x86_64"
+git-tree-sha1 = "e94b3d654ef247235f6dd1f2c207f653025cbedc"
+os = "macos"
+
+    [[EDFlib.download]]
+    sha256 = "f66f690e02ff84b4c04ae888dca70d337d109f2cc3ef724d162e1d34799f1cda"
+    url = "https://github.com/JuliaBinaryWrappers/EDFlib_jll.jl/releases/download/EDFlib-v1.16.0+0/EDFlib.v1.16.0.x86_64-apple-darwin14.tar.gz"
+[[EDFlib]]
+arch = "x86_64"
+git-tree-sha1 = "ee2278eefd71562d69f8f8a77d5ed4e77211fbe1"
+os = "freebsd"
+
+    [[EDFlib.download]]
+    sha256 = "78c543816405025f94f1801e686a5d231f06257146e8ef2d999d83a582ea3bc4"
+    url = "https://github.com/JuliaBinaryWrappers/EDFlib_jll.jl/releases/download/EDFlib-v1.16.0+0/EDFlib.v1.16.0.x86_64-unknown-freebsd11.1.tar.gz"
+[[EDFlib]]
+arch = "i686"
+git-tree-sha1 = "23dfc01710ce9a4c85f44eb7accb77ac388bf778"
+libc = "musl"
+os = "linux"
+
+    [[EDFlib.download]]
+    sha256 = "17015f06feb18011d4cf51cf15078e65f52127364bfe164b949bcd9d4510cc5e"
+    url = "https://github.com/JuliaBinaryWrappers/EDFlib_jll.jl/releases/download/EDFlib-v1.16.0+0/EDFlib.v1.16.0.i686-linux-musl.tar.gz"
+[[EDFlib]]
+arch = "armv7l"
+git-tree-sha1 = "4dceb9c49b0dbff8514d01d22eaff7ee9364b99e"
+libc = "musl"
+os = "linux"
+
+    [[EDFlib.download]]
+    sha256 = "ca03eaa030c01c9c72cb78d2eefa1c8e0e883e05d5b7f6b56f7e9070638582a9"
+    url = "https://github.com/JuliaBinaryWrappers/EDFlib_jll.jl/releases/download/EDFlib-v1.16.0+0/EDFlib.v1.16.0.armv7l-linux-musleabihf.tar.gz"
+[[EDFlib]]
+arch = "x86_64"
+git-tree-sha1 = "6d0023741d40e1b08ff843322008fbe2ab81b270"
+os = "windows"
+
+    [[EDFlib.download]]
+    sha256 = "87f2484ef864944b06420dd3e17547ae83d9085c7fd4dad1db156469526b5ce0"
+    url = "https://github.com/JuliaBinaryWrappers/EDFlib_jll.jl/releases/download/EDFlib-v1.16.0+0/EDFlib.v1.16.0.x86_64-w64-mingw32.tar.gz"
